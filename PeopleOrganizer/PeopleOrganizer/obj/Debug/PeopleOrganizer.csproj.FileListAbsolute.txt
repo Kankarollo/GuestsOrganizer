@@ -1,0 +1,17 @@
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\bin\Debug\PeopleOrganizer.exe.config
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\bin\Debug\PeopleOrganizer.exe
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\bin\Debug\PeopleOrganizer.pdb
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\MainWindow.g.cs
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\Page1.g.cs
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\App.g.cs
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer_MarkupCompile.cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer_MarkupCompile.lref
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\MainWindow.baml
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\Page1.baml
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.g.resources
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.Properties.Resources.resources
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.csproj.GenerateResource.Cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.exe
+C:\Users\pawel\OneDrive\Pulpit\Programowanie\Csharp\Wpf\PeopleOrganizer\PeopleOrganizer\obj\Debug\PeopleOrganizer.pdb
